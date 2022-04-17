@@ -1,0 +1,77 @@
+{
+  "tracking": 
+  [
+    {
+      "date": [2022, 2, 18], 
+      "pancaPiana": [20, 20, 20, 20], 
+      "spinte": [16, 16, 18, 18], 
+      "shoulderPress": [40, 42, 42, 42], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [0, 0, 0, 0]
+    }, 
+    {
+      "date": [2022, 2, 25], 
+      "pancaPiana": [20, 20, 20, 20], 
+      "spinte": [16, 16, 18, 18], 
+      "shoulderPress": [40, 42, 42, 45], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 3, 4],
+      "pancaPiana": [20, 20, 20, 21],
+      "spinte": [16, 18, 18, 18],
+      "shoulderPress": [41, 42, 43, 45],
+      "backPack": [30, 30, 35, 35],
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 3, 11], 
+      "pancaPiana": [20, 20, 21, 21], 
+      "spinte": [18, 18, 18, 18], 
+      "shoulderPress": [42, 42, 43, 45], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 3, 18], 
+      "pancaPiana": [20, 20, 20, 21], 
+      "spinte": [18, 18, 18, 18], 
+      "shoulderPress": [42, 43, 43, 45], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 3, 25], 
+      "pancaPiana": [20, 20, 20, 20], 
+      "spinte": [18, 18, 18, 18], 
+      "shoulderPress": [43, 43, 45, 45], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 4, 1], 
+      "pancaPiana": [20, 20, 20, 20], 
+      "spinte": [18, 18, 18, 18], 
+      "shoulderPress": [43, 43, 45, 45], 
+      "backPack": [30, 30, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }, 
+    {
+      "date": [2022, 4, 8], 
+      "pancaPiana": [20, 20, 20, 20], 
+      "spinte": [16, 18, 18, 20], 
+      "shoulderPress": [43, 45, 45, 47], 
+      "backPack": [30, 35, 35, 35], 
+      "alzateLaterali": [8, 8, 8, 8]
+    },
+    {
+      "date": [2022, 4, 15], 
+      "pancaPiana": [20, 21, 22, 23], 
+      "spinte": [16, 18, 20, 20], 
+      "shoulderPress": [45, 45, 47, 50], 
+      "backPack": [32, 35, 35, 37], 
+      "alzateLaterali": [8, 8, 8, 8]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "tracking": 
+  [
+    {
+      "date": [2022, 2, 22], 
+      "squat": 18, 
+      "curl": 45, 
+      "extension": 40, 
+      "press": 110,
+      "calfPress": 150
+
+    }, 
+    {
+      "date": [2022, 2, 22], 
+      "squat": 20, 
+      "curl": 45, 
+      "extension": 40, 
+      "press":  110,
+      "calfPress": 150
+    }, 
+    {
+      "date": [2022, 2, 22], 
+      "squat": 22,
+      "curl": 45,
+      "extension": 45,
+      "press": 110,
+      "calfPress": 150
+    }, 
+    {
+      "date": [2022, 2, 22], 
+      "squat": 22, 
+      "curl": 45, 
+      "extension": 45, 
+      "press": 120, 
+      "calfPress": 150
+    }, 
+
+
+    {
+      "date": [2022, 3, 2], 
+      "squat": 20, 
+      "curl": 45, 
+      "extension": 40, 
+      "press": 110, 
+      "calfPress": 150
+    }, 
+    {
+      "date": [2022, 3, 2], 
+      "squat": 20,
+      "curl": 45, 
+      "extension": 40, 
+      "press": 110, 
+      "calfPress": 150
+    }, 
+    {
+      "date": [2022, 3, 2], 
+      "squat": 20,
+      "curl": 50,
+      "extension": 45, 
+      "press": 120,
+      "calfPress": 160
+    }, 
+    {
+      "date": [2022, 3, 2], 
+      "squat": 20,
+      "curl": 50, 
+      "extension": 50, 
+      "press": 120, 
+      "calfPress": 160
+    }, 
+
+
+    {
+      "date": [2022, 3, 9], 
+      "squat": 20, 
+      "curl": 45, 
+      "extension": 40, 
+      "press": 110, 
+      "calfPress": 160
+    }, 
+    {
+      "date": [2022, 3, 9], 
+      "squat": 20,
+      "curl": 45,
+      "extension": 45,
+      "press": 110,
+      "calfPress": 160
+    }, 
+    {
+      "date": [2022, 3, 9], 
+      "squat": 21,  
+      "curl":  50,  
+      "extension": 50,
+      "press": 120,
+      "calfPress": 170
+    }, 
+    {
+      "date": [2022, 3, 9], 
+      "squat": 21, 
+      "curl": 50, 
+      "extension": 50, 
+      "press": 120, 
+      "calfPress": 170
+    }, 
+
+
+    {
+      "date": [2022, 3, 16], 
+      "squat": 20, 
+      "curl": 45,
+      "extension": 45, 
+      "press": 120,
+      "calfPress": 170
+    },
+    {
+      "date": [2022, 3, 16], 
+      "squat": 21, 
+      "curl": 45,
+      "extension": 45,
+      "press": 120,
+      "calfPress": 170
+    },
+    {
+      "date": [2022, 3, 16], 
+      "squat": 22,
+      "curl": 50,
+      "extension": 50,
+      "press": 120,  
+      "calfPress": 170
+    },
+    {
+      "date": [2022, 3, 16], 
+      "squat": 23,
+      "curl": 50,
+      "extension": 50, 
+      "press": 120, 
+      "calfPress": 170
+    },
+    
+    
+    {
+      "date": [2022, 3, 23], 
+      "squat": 20,  
+      "curl": 45,  
+      "extension": 45,
+      "press": 120 ,
+      "calfPress": 170
+    }, 
+    {
+      "date": [2022, 3, 23], 
+      "squat": 21, 
+      "curl": 45, 
+      "extension": 45, 
+      "press": 120, 
+      "calfPress": 170
+    }, 
+    {
+      "date": [2022, 3, 23], 
+      "squat": 22, 
+      "curl": 50,
+      "extension": 50, 
+      "press": 120,
+      "calfPress": 180
+    },
+    {
+      "date": [2022, 3, 23], 
+      "squat": 23, 
+      "curl": 50, 
+      "extension": 50, 
+      "press": 120, 
+      "calfPress": 180
+    } 
+  ]
+}

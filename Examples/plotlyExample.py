@@ -31,19 +31,34 @@ df = buildDataFrame(r"C:\Users\Daniele\Desktop\Programmazione\Python\gymTracking
     [[18, 20, 22, 22], [20, 20, 20, 20], [20, 20, 21, 21], [20, 21, 22, 23], [20, 21, 22, 23]]
 ])'''
 
+
 df2 = pd.DataFrame(data=[
     ["2022-02-22", [18, 20, 22, 22]], 
     ["2022-03-02", [20, 20, 20, 20]], 
     ["2022-03-09", [20, 20, 21, 21]],
     ["2022-03-16", [20, 21, 22, 23]],
-    ["2022-03-23", [20, 21, 22, 23]]
+    ["2022-03-23", [20, 21, 22, 23]],
+    ["2022-03-25", [22, 23, 23, 24]]
 ], columns=["date", eserc])
 
 
+dates = ["2022-02-22", "2022-03-02", "2022-03-09", "2022-03-16"]
+rep = [1,2,3,4]
+weights = [[18, 20, 20, 21], [20, 20, 21, 21], [20, 20, 21, 22], [21, 22, 22, 23]]
+avgs = list(np.mean(arr) for arr in weights)
 
-print(df2)
+#df = pd.DataFrame(zip(rep,dates,weights), columns=["num","date","peso"])
+#print(df[0])
 
-fig = go.Figure()
-fig.add_trace(go.Box(x=df2["date"], y=df2["squat"]))
+fig = make_subplots(rows=1, cols=2)
+fig.add_trace(go.Box(x=dates, y=weights))
+fig.add_trace(px.scatter(x=dates, y=avgs), row=1, col=2)
+
+#fig = px.line(x=dates, y=avgs, markers=True)
 fig.show()
+
+
+
+
+#fig = px.box(x=dates, y=weights) #px.box(x=rep, y=weights, points="all")
 

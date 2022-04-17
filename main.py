@@ -1,4 +1,4 @@
-#from stringPipeline import stringPipeline
+from stringPipeline import stringPipeline
 #import stringPipeline
 from plotUtil import buildGraph
 from Json2Dataframe import buildDataFrame
@@ -13,7 +13,7 @@ def main(path):
     answer = input("Inserire nuovo tracking? [y/n]")
     if(answer == "y"):
         s = str(input("Inserisci sessione di allenamento: ")).toLower()
-        #stringPipeline.stringPipeline(path, s)
+        stringPipeline.stringPipeline(path, s)
 
     elif(answer == "n"):
         eserc = str(input("Inserisci esercizio da visualizzare: "))
