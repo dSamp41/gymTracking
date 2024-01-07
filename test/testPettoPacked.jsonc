@@ -1,77 +1,36 @@
 {
   "tracking": 
   [
-    {
-      "date": [2022, 2, 18], 
-      "pancaPiana": [20, 20, 20, 20], 
-      "spinte": [16, 16, 18, 18], 
-      "shoulderPress": [40, 42, 42, 42], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [0, 0, 0, 0]
-    }, 
-    {
-      "date": [2022, 2, 25], 
-      "pancaPiana": [20, 20, 20, 20], 
-      "spinte": [16, 16, 18, 18], 
-      "shoulderPress": [40, 42, 42, 45], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 3, 4],
-      "pancaPiana": [20, 20, 20, 21],
-      "spinte": [16, 18, 18, 18],
-      "shoulderPress": [41, 42, 43, 45],
-      "backPack": [30, 30, 35, 35],
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 3, 11], 
-      "pancaPiana": [20, 20, 21, 21], 
-      "spinte": [18, 18, 18, 18], 
-      "shoulderPress": [42, 42, 43, 45], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 3, 18], 
-      "pancaPiana": [20, 20, 20, 21], 
-      "spinte": [18, 18, 18, 18], 
-      "shoulderPress": [42, 43, 43, 45], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 3, 25], 
-      "pancaPiana": [20, 20, 20, 20], 
-      "spinte": [18, 18, 18, 18], 
-      "shoulderPress": [43, 43, 45, 45], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 4, 1], 
-      "pancaPiana": [20, 20, 20, 20], 
-      "spinte": [18, 18, 18, 18], 
-      "shoulderPress": [43, 43, 45, 45], 
-      "backPack": [30, 30, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }, 
-    {
-      "date": [2022, 4, 8], 
-      "pancaPiana": [20, 20, 20, 20], 
-      "spinte": [16, 18, 18, 20], 
-      "shoulderPress": [43, 45, 45, 47], 
-      "backPack": [30, 35, 35, 35], 
-      "alzateLaterali": [8, 8, 8, 8]
-    },
-    {
-      "date": [2022, 4, 15], 
-      "pancaPiana": [20, 21, 22, 23], 
-      "spinte": [16, 18, 20, 20], 
-      "shoulderPress": [45, 45, 47, 50], 
-      "backPack": [32, 35, 35, 37], 
-      "alzateLaterali": [8, 8, 8, 8]
-    }
+    {"date": [2021, 10, 1], "pancaPiana": [5, 5, 7, 7], "spinte": [6, 6, 6, 6], "shoulderPress": [10, 15, 15, 20], "backPack": [10, 10, 15, 15], "alzateLaterali": [4, 4, 4, 4]}, 
+    {"date": [2021, 10, 8], "pancaPiana": [7, 8, 9, 10], "spinte": [6, 6, 6, 6], "shoulderPress": [15, 20, 20, 25], "backPack": [10, 15, 20, 20], "alzateLaterali": [4, 4, 4, 4]}, 
+    {"date": [2021, 10, 15], "pancaPiana": [8, 8, 10, 11], "spinte": [6, 6, 8, 8], "shoulderPress": [20, 25, 25, 30], "backPack": [20, 20, 25, 25], "alzateLaterali": [4, 4, 4, 4]}, 
+    {"date": [2021, 10, 22], "pancaPiana": [8, 10, 11, 12], "spinte": [8, 8, 10, 10], "shoulderPress": [25, 30, 30, 30], "backPack": [25, 25, 25, 25], "alzateLaterali": [4, 4, 6, 6]}, 
+    {"date": [2021, 10, 29], "pancaPiana": [10, 12, 12, 14], "spinte": [10, 10, 10, 10], "shoulderPress": [30, 30, 30, 30], "backPack": [25, 25, 30, 30], "alzateLaterali": [4, 4, 6, 6]}, 
+    {"date": [2021, 11, 5], "pancaPiana": [10, 12, 14, 15], "spinte": [10, 10, 12, 12], "shoulderPress": [30, 30, 30, 30], "backPack": [25, 25, 25, 25], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 11, 12], "pancaPiana": [12, 14, 15, 16], "spinte": [12, 12, 12, 12], "shoulderPress": [25, 30, 30, 35], "backPack": [25, 25, 30, 30], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 11, 19], "pancaPiana": [13, 14, 15, 15], "spinte": [12, 12, 12, 12], "shoulderPress": [30, 30, 35, 35], "backPack": [25, 30, 30, 30], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 11, 26], "pancaPiana": [13, 14, 15, 15], "spinte": [12, 12, 14, 14], "shoulderPress": [30, 35, 35, 40], "backPack": [25, 30, 30, 30], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 12, 3], "pancaPiana": [15, 15, 15, 15], "spinte": [12, 12, 14, 14], "shoulderPress": [35, 35, 35, 35], "backPack": [25, 30, 30, 30], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 12, 10], "pancaPiana": [15, 16, 16, 16], "spinte": [12, 12, 14, 14], "shoulderPress": [35, 35, 35, 35], "backPack": [25, 30, 30, 30], "alzateLaterali": [6, 6, 6, 6]}, 
+    {"date": [2021, 12, 17], "pancaPiana": [15, 16, 16, 17], "spinte": [14, 14, 14, 14], "shoulderPress": [35, 35, 35, 35], "backPack": [30, 30, 30, 30], "alzateLaterali": [6, 6, 6, 8]}, 
+    {"date": [2021, 12, 24], "pancaPiana": [16, 16, 17, 17], "spinte": [14, 14, 14, 14], "shoulderPress": [30, 35, 35, 40], "backPack": [25, 30, 30, 35], "alzateLaterali": [6, 6, 6, 8]}, 
+    {"date": [2021, 12, 31], "pancaPiana": [17, 17, 17, 20], "spinte": [14, 14, 16, 16], "shoulderPress": [35, 35, 40, 40], "backPack": [25, 30, 35, 35], "alzateLaterali": [6, 6, 6, 8]}, 
+    {"date": [2022, 1, 7], "pancaPiana": [17, 18, 19, 20], "spinte": [14, 16, 16, 16], "shoulderPress": [35, 35, 40, 40], "backPack": [30, 30, 35, 35], "alzateLaterali": [6, 6, 8, 8]}, 
+    {"date": [2022, 1, 14], "pancaPiana": [18, 19, 20, 20], "spinte": [16, 16, 16, 16], "shoulderPress": [35, 35, 40, 40], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 1, 21], "pancaPiana": [19, 20, 20, 20], "spinte": [16, 16, 16, 16], "shoulderPress": [40, 40, 40, 40], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 1, 28], "pancaPiana": [20, 20, 20, 20], "spinte": [14, 16, 16, 18], "shoulderPress": [40, 40, 40, 42], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 2, 4], "pancaPiana": [20, 20, 20, 21], "spinte": [16, 16, 18, 18], "shoulderPress": [40, 40, 42, 42], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 2, 11], "pancaPiana": [20, 20, 20, 20], "spinte": [16, 16, 16, 18], "shoulderPress": [40, 40, 42, 43], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 2, 18], "pancaPiana": [20, 20, 20, 20], "spinte": [16, 16, 18, 18], "shoulderPress": [40, 42, 42, 42], "backPack": [30, 30, 35, 35], "alzateLaterali": [0, 0, 0, 0]}, 
+    {"date": [2022, 2, 25], "pancaPiana": [20, 20, 20, 20], "spinte": [16, 16, 18, 18], "shoulderPress": [40, 42, 42, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 3, 4], "pancaPiana": [20, 20, 20, 21], "spinte": [16, 18, 18, 18], "shoulderPress": [41, 42, 43, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 3, 11], "pancaPiana": [20, 20, 21, 21], "spinte": [18, 18, 18, 18], "shoulderPress": [42, 42, 43, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 3, 18], "pancaPiana": [20, 20, 20, 21], "spinte": [18, 18, 18, 18], "shoulderPress": [42, 43, 43, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 3, 25], "pancaPiana": [20, 20, 20, 20], "spinte": [18, 18, 18, 18], "shoulderPress": [43, 43, 45, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 4, 1], "pancaPiana": [20, 20, 20, 20], "spinte": [18, 18, 18, 18], "shoulderPress": [43, 43, 45, 45], "backPack": [30, 30, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 4, 8], "pancaPiana": [20, 20, 20, 20], "spinte": [16, 18, 18, 20], "shoulderPress": [43, 45, 45, 47], "backPack": [30, 35, 35, 35], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 4, 15], "pancaPiana": [20, 21, 22, 23], "spinte": [16, 18, 20, 20], "shoulderPress": [45, 45, 47, 50], "backPack": [32, 35, 35, 37], "alzateLaterali": [8, 8, 8, 8]}, 
+    {"date": [2022, 4, 22], "pancaPiana": [21, 22, 23, 25], "spinte": [18, 20, 20, 20], "shoulderPress": [45, 47, 47, 50], "backPack": [35, 35, 37, 37], "alzateLaterali": [8, 8, 8, 10]}, 
+    {"date": [2022, 4, 29], "pancaPiana": [23, 25, 25, 25], "spinte": [20, 20, 20, 20], "shoulderPress": [45, 47, 50, 50], "backPack": [35, 35, 37, 37], "alzateLaterali": [8, 8, 8, 10]}
   ]
 }
