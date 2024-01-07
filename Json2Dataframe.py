@@ -16,3 +16,13 @@ def buildDataFrame(path):
 
     #dataFrame.to_csv(r"C:\Users\Daniele\Desktop\Programmazione\Python\gymTracking\gymTracking.csv") #TODO: fix 
     return dataFrame
+
+
+
+def splitDataFrame(df: pd.DataFrame, esercizi: list):
+    '''
+    Dato df completo, ritorna df composto da esercizi presenti in lista
+    
+    '''
+
+    return df[esercizi].dropna()
